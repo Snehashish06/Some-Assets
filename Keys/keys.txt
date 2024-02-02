@@ -1,4 +1,3 @@
 {
-     "gFXKk7hEY8pZxHT6Gesy34BLw5tfodCPvSIrmlQjqRi9uM1a0O":["23049PCD8I"],
-     "yBHuWirtqzhKESl8dXJR5C13INcmZ6Po90xnvpGDU4wOTfa7eg": {"SM-A705FN": "00322acccfe6099a1b4405ffcbd070b96c620fadc6313bfb70c19484aaced955"}
+     "gFXKk7hEY8pZxHT6Gesy34BLw5tfodCPvSIrmlQjqRi9uM1a0O":["23049PCD8I"]
 }
